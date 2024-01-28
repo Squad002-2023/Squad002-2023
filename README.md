@@ -82,24 +82,29 @@ Você pode contribuir para o Monitorando de várias maneiras:
 
 ## ⚙️ Tecnologias Utilizadas 
 
-Back-end
+<br>
 
-    Java Spring Boot
-    MySQL
-    Swagger
-Front-end
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+</div> 
 
-    NextJS
-    Axios
-    Framer Motion
-    Lottie Player
-  Deploy
 
-    Vercel
-    Render
-    Docker
-    PostgreSQL
+<div align="center">
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
+  <code><img src="https://airbnb.io/lottie/images/logo.webp" alt="Lottie" width="50" title="Lottie"/></code>
+  <code><img width="50" src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" alt="Axios" title="Axios"/></code>
+  <code><img src="https://avatars.githubusercontent.com/u/42876?s=200&v=4" alt=" Framer Motion" width="50" title="Framer Motion"/></code>
+  
+</div>
 
+<div align="center">
+  <code><img width="50" src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="Versel" title="Versel"/></code>
+  <code><img width="50" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" title="Render"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+</div>
     
 <br>
 
