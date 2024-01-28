@@ -5,7 +5,7 @@
 </div>
 
 
-## Squad 024
+## Squad 024 
 
 
 <table>
@@ -76,10 +76,37 @@ Você pode contribuir para o Monitorando de várias maneiras:
 
 * **Compartilhe a Iniciativa:** Ajude-nos a alcançar mais estudantes compartilhando o Monitorando com sua rede.
 
+<br>
+
+## ⚙️ Tecnologias Utilizadas 
+
+Back-end
+
+    Java Spring Boot
+    MySQL
+    Swagger
+Front-end
+
+    NextJS
+    Axios
+    Framer Motion
+    Lottie Player
+  Deploy
+
+    Vercel
+    Render
+    Docker
+    PostgreSQL
+
+    
+<br>
 
 ## Contato
 
 monitorando@hotmail.com
 
+<br>
 
+## 
+Projeto desenvolvido como atividade Final do curso de Desenvolvimento Full Stack, Recode PRO 2023.
 
