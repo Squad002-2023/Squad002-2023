@@ -54,6 +54,7 @@
   </tr>
 </table>
 
+<br>
 
 ## 📜 Sobre o projeto
 O Monitorando é uma iniciativa dedicada a apoiar estudantes em suas jornadas acadêmicas. Nosso objetivo é fornecer assistência aos estudantes para superar as dificuldades enfrentadas, especialmente por egressos do ensino público e que possuem recursos limitados. Com o Monitorando, possibilitamos que os estudantes superem as dificuldades e continuem em seus cursos de graduação, técnicos e profissionalizantes.
